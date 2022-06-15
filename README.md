@@ -21,4 +21,5 @@ Iniciando na programação 🧑‍💻
   <a href="https://www.linkedin.com/in/gcarvalho97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
- 
+  ##   Here is a random joke that'll make you laugh!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
