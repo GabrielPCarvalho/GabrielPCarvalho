@@ -1,6 +1,5 @@
 ### Ola! Eu sou Gabriel Carvalho 👋
 
-Iniciando na programação 🧑‍💻 
 <div>
   <a href="https://github.com/GabrielPCarvalho">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielpcarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
